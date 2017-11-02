@@ -1,0 +1,2 @@
+# Sliderjs
+> Etienne Blanc-Coquand
