@@ -1,0 +1,28 @@
+section{
+    margin-left: 10%;
+}
+
+.carouselSlider{
+    border-radius: 3px;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    max-height: 70vh;
+    max-width: 70vw;
+}
+
+.imagesCollection{
+    max-width: 70vw;
+    max-height: 70vh;
+    overflow: hidden;
+    width: 100%;
+}
+
+.img-carousel{
+    display: none;
+    position: relative;
+    width: 100%;
+}
+
+.img-carousel.active{
+    display: block;
+}
